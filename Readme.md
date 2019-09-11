@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Сергей Миклашевский](https://up.htmlacademy.ru/javascript/18/user/534681).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Столпнер](https://htmlacademy.ru/profile/stolpnera)
 
 ---
 
